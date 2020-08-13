@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Id:[I;1240821716,-1506655700,-1333700282,1944394761],Name:\"Charging Vex\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY4ODZjYjk0ZjNiMzgyY2JjMzIxYWI0NjUzNTgxZjI4MmNhMDg0MTcyOGE0NzhlZTlkNDFhOGEzMjI0NzQzIn19fQ==\"}]}}}"
+        },
+        "title": {
+            "text": "More Mob Heads (Nano Version)",
+            "color": "green",
+            "bold": true,
+            "italic": false
+        },
+        "description": {
+            "text": "Make all mobs have the ability to drop different types of their heads upon killing it or exploding by a charge creeper",
+            "color": "dark_aqua",
+            "bold": false,
+            "italic": false
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "main:main/roots",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

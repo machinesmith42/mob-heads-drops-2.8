@@ -1,0 +1,415 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "vanilla:entities/wolf"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-562648461,1825720265,-1251599536,931133440],Name:\"White Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVhMjlkNTk0NTFiYWYwNTc3NWEzOGZmYjhmYjQ2ODAxN2Y1NDEyNmUyMGYwZjhiY2IzZTJkMTEzNjkxOGFkMSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:0b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;427943509,-451391677,-1821057931,-776802144],Name:\"Light Gray Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBkMGE4MGJmNmU5NTE5ODgwOTZmMTkyMzI3MTRjZjA3NWFhMzZiNzMwYjk2ODU2ZWY0ODVlZThlZmVjZTE3MCJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:8b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1927999852,485180084,-1371910366,-1109020369],Name:\"Gray Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI5MGYwZjgwODFjY2RiOGZmNDJhMWJiNTQ3ZjcwZGQ4NDE5YTE5YTY5NGY0OGE1ZGZhZWNmY2Y2YjQ4OGJiMCJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:7b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-17905633,1152534857,-1679947293,901591768],Name:\"Black Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNkMmMxYzA0MTFlYTJiNzYzZjU5YmQ5YTAzZjljNDg3YzY4ZDQ1Yzc1ZGZmNjljZWVhZmZkOTc4Zjk3MjI2In19fQ==\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:15b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1960959435,994987175,-1676279964,-300281080],Name:\"Brown Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTkwODFjYmM0NmJiNDdjZGNjMzliZDQ1MTE1OGFkN2Y5MzY4OThjOTkzM2JmYTczYzNkMDU4MDE0MDUwZjViNyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:12b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-842263779,-1340586532,-1317343842,630876208],Name:\"Red Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZhOGFlYzhmMzI5OTgxZDdhYWQ2N2E0MzcwNGMzN2QyMGVhNDcyNjNhNTNlYWU3YTI0MGM5Mzk2NWQwOTQ4MSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:14b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1983068640,-1047769337,-1263393430,-852849272],Name:\"Orange Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU3MjA2OTc1NGU2NmMwZDc4OGM0MDk1ZWViNDM2MTIyZTRkNjAwZTA5MWI3MThmNzQ0YTkzOGI0MDE3YmM4ZSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:1b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1067192204,84427218,-1666015113,-304465859],Name:\"Yellow Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmOTVmNjEzZDFiMGI4NzU1MTZkN2FjMmIyMmY3YzVhM2JjNmU1NmQyMmE1NjQ1NTk2NDZhNjgzZGYyMjMyMiJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:4b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1777868354,1844004104,-1860921034,-1955362648],Name:\"Lime Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE5NjUwMmM3YmMxYmNkOTc0ZjZmMDNhYzU4YmExM2NmODliMjAxZGI3MTQ3MzYyYzk3ZDcxN2U0MTE3YTYzIn19fQ==\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:5b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-467468878,585057946,-1249416228,595120152],Name:\"Green Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQxMzdjYWRkYzgxMWFlZTA4M2UyZWY5OTdjNzk4ZWI2NGJlZjBhNmZmYWU1ZmVmM2U4YjQzZDhmZDc2MGExIn19fQ==\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:13b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-238274750,1143098528,-1645888866,1173947958],Name:\"Cyan Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY3ZDQ4ODRhYWYwNjA5MTNlNGZhNTlkMzQwYTA0ZjJjOWIwOWNhZTc1OTQ4NDZiNGQ5OWI0ZjY2MmIyMmQ4NSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:9b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;7839074,-443858578,-1775248805,167426657],Name:\"Light Blue Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5MmY4MmI3ZGE5OTIzYjIxODYxMGUwNGIzYzM0ZWMzN2I0OWQyMzExYWExOTlmN2IwNDFhMzBjOWU1YzZmYSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:3b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1045980155,659573167,-1127104212,-846259584],Name:\"Blue Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFiY2UzZTk2ZTRkYjgzOGRiOTc5YmRjYzdhZmExNjE5MDc3M2E2N2JmZmY5MTZjNzQ2MzMwOTA5NGU0YzBkMyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:11b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1946716569,633096685,-1794924075,-330549598],Name:\"Purple Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdkNmE3OWQyMDdiNzQ5ZGYyMzRjYzM1MGZmMWNkYjFjNzU1MGQyNzZmZmRhYTFmNTUwNzU2N2Y2ZGQwMzY5MyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:10b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1720606283,-112244982,-2015306934,-1521079971],Name:\"Magenta Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE4ODE5ZmU4YWVhNTE5ODViMmY2MzMwOTk1YjE0MGE1NGJhNjk2NGU1NTkxNDYyNzA4ZGQ3YjA2Zjg4YjRiMyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:2b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1859636283,-1935196063,-1303339573,-1221255087],Name:\"Pink Collar Tamed Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2YxOGQxZTQ5OWYwZmU5ODg2ODY0Zjc0Nzg1MmEwYjgxMDc5NWY4OGQ0YzVmZTg5MDI0ZjViZDg3MDcwNjliMSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CollarColor:6b,Attributes:[{Base:20d,Name:\"minecraft:generic.max_health\"}]}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;331091154,-831306847,-1792330377,780116157],Name:\"Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY0MzlhNDNlNTY4NzAwODgxNWEyZGQxZmY0YTEzNGMxMjIyMWI3ODIzMzY2NzhiOTc5YWQxM2RjZTM5NjY1ZSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{AngerTime:0}"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-778701493,-2072295514,-1975288126,203552561],Name:\"Angry Wolf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQxYWE3ZTNiOTU2NGIzODQ2ZjFkZWExNGYxYjFjY2JmMzk5YmJiMjNiOTUyZGJkN2VlYzQxODAyYTI4OWM5NiJ9fX0=\"}]}}}"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:random_chance_with_looting",
+                      "chance": 0.02,
+                      "looting_multiplier": 0.01
+                    }
+                  },
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:killed_by_player",
+                      "inverse": false
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "is_explosion": true,
+                "source_entity": {
+                  "type": "minecraft:creeper",
+                  "nbt": "{powered:1b}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
