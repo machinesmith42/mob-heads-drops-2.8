@@ -23,7 +23,7 @@
               "functions": [
                 {
                   "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1460782589,890914756,-1571289665,1715261309],Name:\"Grumm Chicken\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ2OTA4NWY0N2Q3NTQxOTc2ZDlmYjgxMmNkM2MwNzgzZmE0YTcwODhhZTE4YWM2Y2VkYzlhYzU1NTkzMGQzIn19fQ==\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1460782589,890914756,-1571289665,1715261309],Name:\"Grumm Chicken\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjNDNlNDBlNTMyZWExZDVmZTBkNTU5ZWQ4YzdlYzliMGVhOTE4Y2FlNmYzZmVjYzFiY2UzMDUzNDBiNjJmZCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
