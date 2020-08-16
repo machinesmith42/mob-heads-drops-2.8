@@ -13,38 +13,6 @@
               "functions": [
                 {
                   "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-908364417,-1498135468,-1160420529,-660991772],Name:\"Grumm Creeper\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk0Y2RmYTYzMzgzMWE1MzY2ZWEyOWQyMDQ1YWRhOTRjODIyYmYwMjk5NDZhNGRkMGE1ODJhYjVlM2VlN2I1MyJ9fX0=\"}]}}}"
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:alternative",
-                  "terms": [
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
-                      }
-                    },
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "minecraft:item",
-              "name": "minecraft:player_head",
-              "weight": 1,
-              "functions": [
-                {
-                  "function": "minecraft:set_nbt",
                   "tag": "{SkullOwner:{Id:[I;-1013882120,1373457249,-1287554708,-1607644106],Name:\"Grumm Charged Creeper\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUwZjY3NDRjNDQzNjk4YjNmZGZmNWVkYjgxYjI0NjNlNWIzYzFlM2RkYTE4YWYzNmQxMDdlMjVkOGNhOWEyYiJ9fX0=\"}]}}}"
                 }
               ],
@@ -64,6 +32,38 @@
                       "entity": "this",
                       "predicate": {
                         "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}', powered:1b}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-908364417,-1498135468,-1160420529,-660991772],Name:\"Grumm Creeper\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk0Y2RmYTYzMzgzMWE1MzY2ZWEyOWQyMDQ1YWRhOTRjODIyYmYwMjk5NDZhNGRkMGE1ODJhYjVlM2VlN2I1MyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
                       }
                     }
                   ]
