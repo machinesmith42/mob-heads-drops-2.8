@@ -56,14 +56,14 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}', powered: 1}"
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}', powered:1b}"
                       }
                     },
                     {
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}', powered: 1}"
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}', powered:1b}"
                       }
                     }
                   ]
