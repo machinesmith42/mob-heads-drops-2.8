@@ -15,47 +15,135 @@
       "entries": [
         {
           "type": "minecraft:alternatives",
-          "conditions": [
-        {
-          "condition": "minecraft:alternative",
-          "terms": [
+          "children": [
             {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:alternative",
-                "terms": [
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:random_chance_with_looting",
-                      "chance": 0.018,
-                      "looting_multiplier": 0.04
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1178248545,1667974368,-2120706987,-1050206117],Name:\"Grumm Sleeping Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZjMzA3MTA2NTdkYWZlZTJjZmE0MTBmYjk1YzJiMDk1NWZkMDk2NzAwMTE3ZjcwZWU2NzU5ODYxMjQ3OTJhOSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',Type:\"red\",Sleeping:1b}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',Type:\"red\",Sleeping:1b}"
+                      }
                     }
-                  },
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:killed_by_player",
-                      "inverse": false
-                    }
-                  }
-                ]
-              }
+                  ]
+                }
+              ]
             },
             {
-              "condition": "minecraft:damage_source_properties",
-              "predicate": {
-                "is_explosion": true,
-                "source_entity": {
-                  "type": "minecraft:creeper",
-                  "nbt": "{powered:1b}"
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;133658936,-1242935956,-1357171722,-1767113120],Name:\"Grumm Sleeping Snow Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVlZGJlNWY5Yzc4OTBhZWJhZTQ2MjFiMmIwOGQ5YTg5MzRmOTMxNTI5OGZkMTMxZmUyNzNlZjAwNWY1MDM1OSJ9fX0=\"}]}}}"
                 }
-              }
-            }
-          ]
-        }
-      ],
-          "children": [
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"},'Type:\"snow\",Sleeping:1b}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"},'Type:\"snow\",Sleeping:1b}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;549272655,928075257,-1124621511,-481555234],Name:\"Grumm Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZjMzA3MTA2NTdkYWZlZTJjZmE0MTBmYjk1YzJiMDk1NWZkMDk2NzAwMTE3ZjcwZWU2NzU5ODYxMjQ3OTJhOSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}','Type:\"red\"}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}','Type:\"red\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-872651531,-334345897,-1746177265,-1178169143],Name:\"Grumm Snow Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWIxMDlhMmRlMzY0M2FiYjY2YzI3ZDY0NGUxMjViMTFlYzU4M2U5ZTEyNzI0N2RlN2UzMjlkODY5YzVhMjYwZiJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}','Type:\"snow\"}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}','Type:\"snow\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
           	{
               "type": "item",
               "name": "minecraft:player_head",
@@ -129,6 +217,46 @@
                     "nbt": "{Type:\"snow\"}"
                   },
                   "entity": "this"
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:inverted",
+                  "term": {
+                    "condition": "minecraft:alternative",
+                    "terms": [
+                      {
+                        "condition": "minecraft:inverted",
+                        "term": {
+                          "condition": "minecraft:random_chance_with_looting",
+                          "chance": 0.02,
+                          "looting_multiplier": 0.02
+                        }
+                      },
+                      {
+                        "condition": "minecraft:inverted",
+                        "term": {
+                          "condition": "minecraft:killed_by_player",
+                          "inverse": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "condition": "minecraft:damage_source_properties",
+                  "predicate": {
+                    "is_explosion": true,
+                    "source_entity": {
+                      "type": "minecraft:creeper",
+                      "nbt": "{powered:1b}"
+                    }
+                  }
                 }
               ]
             }
