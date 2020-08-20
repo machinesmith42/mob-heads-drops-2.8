@@ -13,17 +13,54 @@
     {
       "rolls": 1,
       "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:player_head",
-          "weight": 1,
-          "functions": [
+         {
+          "type": "minecraft:alternatives",
+          "children": [
             {
-              "function": "set_nbt",
-              "tag": "{SkullOwner:{Id:[I;-1069986875,-1993847421,-1795916590,-1976443972],Name:\"Husk\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzMzODMxOGJjOTFhMzZjZDVhYjZhYTg4NWM5YTRlZTJiZGFjZGFhNWM2NmIyYTk5ZGZiMGE1NjA5ODNmMjQ4MCJ9fX0=\"}]}}}"
-            }
-          ]
-        }
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-2122094454,592398513,-1588868182,1767855535],Name:\"Grumm Husk\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU4NTFlYWIxMGVlZjVhZWVjMzMxMGQ4YmZkNmJmMjk4NDRiMzcyOGRiZTg0ZDAzYzI3MDExOGIyODM0YTJmZCJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1069986875,-1993847421,-1795916590,-1976443972],Name:\"Husk\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzMzODMxOGJjOTFhMzZjZDVhYjZhYTg4NWM5YTRlZTJiZGFjZGFhNWM2NmIyYTk5ZGZiMGE1NjA5ODNmMjQ4MCJ9fX0=\"}]}}}"
+                }
+              ]
+             }
+           ]
+         }
       ],
       "conditions": [
         {
