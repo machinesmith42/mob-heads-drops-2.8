@@ -13,17 +13,54 @@
     {
       "rolls": 1,
       "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:player_head",
-          "weight": 1,
-          "functions": [
+         {
+          "type": "minecraft:alternatives",
+          "children": [
             {
-              "function": "set_nbt",
-              "tag": "{SkullOwner:{Id:[I;1451953794,124535138,-1669831071,2101664984],Name:\"Magma Cube\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjgxNzE4ZDQ5ODQ4NDdhNGFkM2VjMDgxYTRlYmZmZDE4Mzc0MzIzOWFlY2FiNjAzMjIxMzhhNzI2MDk4MTJjMyJ9fX0=\"}]}}}"
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1266740261,-1363850648,-1886213828,-1197548609],Name:\"Grumm Magma Cube\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q3ODNiYTkyZGNiMTFlOWZjNjYwMmFjNjAyMWU0ZGMwMTAwZDVjMmMwZjgzYmU5NGY3YzJkNTdmY2UxZjc5OCJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1451953794,124535138,-1669831071,2101664984],Name:\"Magma Cube\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjgxNzE4ZDQ5ODQ4NDdhNGFkM2VjMDgxYTRlYmZmZDE4Mzc0MzIzOWFlY2FiNjAzMjIxMzhhNzI2MDk4MTJjMyJ9fX0=\"}]}}}"
+                }
+              ]
             }
-          ]
-        }
+           ]
+         }
       ],
       "conditions": [
         {
