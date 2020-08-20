@@ -20,7 +20,31 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{SkullOwner:{Id:[I;-2139150209,1687768723,-1467545047,-1967978209],Name:\"Ghast\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI2YTcyMTM4ZDY5ZmJiZDJmZWEzZmEyNTFjYWJkODcxNTJlNGYxYzk3ZTVmOTg2YmY2ODU1NzFkYjNjYzAifX19\"}]}}}"
+              "tag": "{SkullOwner:{Id:[I;35271643,-910013577,-1204529468,1419567531],Name:\"Ghast\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUzZGUzMWEyZDAwNDFhNmVmNzViZjdhNmM4NDY4NDY0ZGIxYWFhNjIwMWViYjFhNjAxM2VkYjIyNDVjNzYwNyJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                    }
+                  },
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                    }
+                  }
+                ]
+              }
             }
           ]
         },
@@ -31,7 +55,31 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{SkullOwner:{Id:[I;1343153680,-1815723482,-1262875428,-899925806],Name:\"Screaming Ghast\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhmNzdlZWVlZjZmZmIyZjY4MThlNTc2OTg3OTRhZTAzNTFhYjMyYmEyMzRkNjIxYzIyZmU0Y2U4ZTE1OTlkMiJ9fX0=\"}]}}}"
+              "tag": "{SkullOwner:{Id:[I;1208787074,1168263523,-1469855128,153141685],Name:\"Screaming Ghast\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzMxZjI3NWM5ZTAyOWNkOTU3MWU2YjgxODM3NTViMjc2ZGIzNTFmNmE1NjgwYzc5ZDM4YmU1OWM3NWMyMThmNSJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                    }
+                  },
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
@@ -49,7 +97,114 @@
                     "condition": "minecraft:inverted",
                     "term": {
                       "condition": "minecraft:random_chance_with_looting",
-                      "chance": 0.025,
+                      "chance": 0.0625,
+                      "looting_multiplier": 0.0125
+                    }
+                  },
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:killed_by_player",
+                      "inverse": false
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "is_explosion": true,
+                "source_entity": {
+                  "type": "minecraft:creeper",
+                  "nbt": "{powered:1b}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-432067883,1263619991,Name:\"Grumm Ghast\",-1470577792,1087623961],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk2ZjQxMDFiODU5NzBkNTYyYTFlZjU5ZmVmMGQ4NWY2Y2VlZTE3ZTYwN2U0MjAwNzc4NTUxODM4Y2M4MDRiIn19fQ==\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                  }
+                },
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-629352674,-1254866240,-2100509373,279045675],Name:\"Grumm Screaming Ghast\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgxOWJhNzljMDAzMTRiNTdkZmZjNDJiM2ViNzc4MTQzM2JiYzVjYTZlYzU4MzRkYjFmZjZkYTkxMzA1NTYyMSJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                  }
+                },
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:random_chance_with_looting",
+                      "chance": 0.0625,
                       "looting_multiplier": 0.0125
                     }
                   },

@@ -23,7 +23,7 @@
               "functions": [
                 {
                   "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-2055113712,-1481358557,-1890641375,-1017025051],Name:\"Grumm Evoker\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEzNjQ5YTJhNDA0YmY3YTA0ZmM0ZTY4M2FjOGZhMDUzN2M1M2JlMjFkNmVkNmFlMTA1Y2Q4ZTExMmY3NDNlMiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-2055113712,-1481358557,-1890641375,-1017025051],Name:\"Grumm Evoker\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyODAyZjg4MjA1MjU2YWEyZWI4NGM4YzA4NTUwZmU0MWNkNzNjNjA4OWEyMzFjZjM1MThiYTc2MWZkNTMwNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -48,26 +48,58 @@
                 }
               ]
             },
-        {
-          "type": "item",
-          "name": "minecraft:player_head",
-          "weight": 1,
-          "functions": [
             {
-              "function": "set_nbt",
-              "tag": "{SkullOwner:{Id:[I;-187598897,-1305656313,-2131539956,1355558238],Name:\"Evoker\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzkwZmJkODhmNjU5ZDM5NjNjNjhjYmJjYjdjNzEyMWQ4MTk1YThiZTY1YmJkMmJmMTI1N2QxZjY5YmNjYzBjNyJ9fX0=\"}]}}}"
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-187598897,-1305656313,-2131539956,1355558238],Name:\"Evoker\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzkwZmJkODhmNjU5ZDM5NjNjNjhjYmJjYjdjNzEyMWQ4MTk1YThiZTY1YmJkMmJmMTI1N2QxZjY5YmNjYzBjNyJ9fX0=\"}]}}}"
+                }
+              ]
             }
           ]
         }
       ],
       "conditions": [
         {
-          "condition": "killed_by_player"
-        },
-        {
-          "condition": "random_chance_with_looting",
-          "chance": 0.14,
-          "looting_multiplier": 0.02
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:random_chance_with_looting",
+                      "chance": 0.14,
+                      "looting_multiplier": 0.02
+                    }
+                  },
+                  {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                      "condition": "minecraft:killed_by_player",
+                      "inverse": false
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "is_explosion": true,
+                "source_entity": {
+                  "type": "minecraft:creeper",
+                  "nbt": "{powered:1b}"
+                }
+              }
+            }
+          ]
         }
       ]
     }

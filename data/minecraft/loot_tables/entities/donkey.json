@@ -23,7 +23,7 @@
               "functions": [
                 {
                   "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1127422323,-271824710,-1187774213,-1410158881],Name:\"Grumm Donkey\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRjMDA4Njc4ZTdlMzU2MzZmNmUyMjU0MzNhOTNhZmUwNmJiNjg3ZTNiM2M4NGY1YzUxMGEwNTMyNjE0MGQwYSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1127422323,-271824710,-1187774213,-1410158881],Name:\"Grumm Donkey\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlOTk0NmIxNjQxODNiYzZiY2U4ZTEwN2NiYWIyOWJjNzJkMWRlM2YyMTVjZGFlNmRhMmIyOGEzM2YyZjQwMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [

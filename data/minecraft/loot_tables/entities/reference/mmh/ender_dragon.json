@@ -1,111 +1,13 @@
 {
-  "type": "minecraft:entity",
   "pools": [
-    {
-      "rolls": 1,
-      "entries": [
         {
-          "type": "minecraft:loot_table",
-          "name": "vanilla:entities/bat"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:alternatives",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "name": "minecraft:player_head",
-              "weight": 1,
-              "functions": [
+            "rolls": 1,
+            "entries": [
                 {
-                  "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1874498216,-1006221072,-1436904843,-1226597118],Name:\"Grumm Ender Dragon\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2MzNjk2YjdjZjkwNDkwNjY1NGIzZWFmZGFkMGM3YzU5MWNjMjMzYjQxMTBlNWI0NzcxMTkwNjY1NGE3YjM0MSJ9fX0=\"}]}}}"
+                    "type": "item",
+                    "name": "minecraft:dragon_head"
                 }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:alternative",
-                  "terms": [
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
-                      }
-                    },
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "minecraft:item",
-              "name": "minecraft:player_head",
-              "weight": 1,
-              "functions": [
-                {
-                  "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;2002880141,2072333771,-1840665491,2017200965],Name:\"Ender Dragon\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRlY2MwNDA3ODVlNTQ2NjNlODU1ZWYwNDg2ZGE3MjE1NGQ2OWJiNGI3NDI0YjczODFjY2Y5NWIwOTVhIn19fQ==\"}]}}}"
-                }
-              ]
-            },
-            {
-                "type": "item",
-                "name": "minecraft:dragon_head"
-            }
-          ]
+            ]
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:alternative",
-          "terms": [
-            {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:alternative",
-                "terms": [
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:random_chance_with_looting",
-                      "chance": 0.02,
-                      "looting_multiplier": 0.02
-                    }
-                  },
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:killed_by_player",
-                      "inverse": false
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "condition": "minecraft:damage_source_properties",
-              "predicate": {
-                "is_explosion": true,
-                "source_entity": {
-                  "type": "minecraft:creeper",
-                  "nbt": "{powered:1b}"
-                }
-              }
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

@@ -23,7 +23,7 @@
               "functions": [
                 {
                   "function": "minecraft:set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1178248545,1667974368,-2120706987,-1050206117],Name:\"Grumm Sleeping Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZjMzA3MTA2NTdkYWZlZTJjZmE0MTBmYjk1YzJiMDk1NWZkMDk2NzAwMTE3ZjcwZWU2NzU5ODYxMjQ3OTJhOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1178248545,1667974368,-2120706987,-1050206117],Name:\"Grumm Sleeping Fox\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmYwNTU5YjQ3Nzg3MWI0NjJhYzIzYTJiMGM3ODEwMjJiNTViOGE5NDQxOTYzOTIzODRjOTdkOWNhY2M4OWE2MSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -66,14 +66,14 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"},'Type:\"snow\",Sleeping:1b}"
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',Type:\"snow\",Sleeping:1b}"
                       }
                     },
                     {
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"},'Type:\"snow\",Sleeping:1b}"
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',Type:\"snow\",Sleeping:1b}"
                       }
                     }
                   ]
@@ -98,14 +98,14 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}','Type:\"red\"}"
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',Type:\"red\"}"
                       }
                     },
                     {
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}','Type:\"red\"}"
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',Type:\"red\"}"
                       }
                     }
                   ]
@@ -130,14 +130,14 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}','Type:\"snow\"}"
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',Type:\"snow\"}"
                       }
                     },
                     {
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}','Type:\"snow\"}"
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',Type:\"snow\"}"
                       }
                     }
                   ]
