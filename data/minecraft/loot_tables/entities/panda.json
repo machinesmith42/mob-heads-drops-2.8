@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "vanilla:entities/panda"
+          "name": "vanilla:entities/mooshroom"
         }
       ]
     },
@@ -14,48 +14,232 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:alternatives",
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-16591287,1818118289,-1390366684,524026076],Name:\"Grumm Aggresive Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ2MjhhMjZlODkwNjRkZWRiNzg0ODJjMmIzNjFhYWRjZmQwYWU0OTZiMzM0NDdkNTM1ZWFiYmViN2IzYmRlOCJ9fX0=\"}]}}}"
+            }
+          ],
           "conditions": [
-        {
-          "condition": "minecraft:alternative",
-          "terms": [
             {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:alternative",
-                "terms": [
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:random_chance_with_looting",
-                      "chance": 0.018,
-                      "looting_multiplier": 0.004
-                    }
-                  },
-                  {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                      "condition": "minecraft:killed_by_player",
-                      "inverse": false
-                    }
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"aggressive\"}"
                   }
-                ]
-              }
-            },
-            {
-              "condition": "minecraft:damage_source_properties",
-              "predicate": {
-                "is_explosion": true,
-                "source_entity": {
-                  "type": "minecraft:creeper",
-                  "nbt": "{powered:1b}"
+                },
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"aggressive\"}"
+                  }
                 }
-              }
+              ]
             }
           ]
-        }
-      ],
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-509384157,-870366485,-2017264471,-1957991947],Name:\"Grumm Lazy Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc0YzcxYjYyZTQxYzg3ZjE1N2ExMjQ4ODRjMTlmOTRlMDM4MzgzZjFlMGM2YzIwNjMyMWUwMTg1YWUxYTg4In19fQ==\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"lazy\"}"
+                  }
+                },
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"lazy\"}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;106349604,1364478958,-1511110780,-732989753], Name:\"Grumm Playful Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVlYzBkOTBmZjUyZTEyZDYxNjdlYjgzZDA2NjZlZDBhNmQxMjY5MDU5OGNmMmY0MWRmNDk5M2M0MWIyNTZiMSJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"playful\"}"
+                  }
+                },
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"playful\"}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
           "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-2034457089,1100041744,-1835556656,466511684],Name:\"Grumm Worried Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMyY2M2N2JhMzMzNDcwZmE4YTI1YmEzZGVkNzdiZTM5OTM1MmRkOGMwZTM5ZjljODk0MzA2MWEwNTBhNTdmNiJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"worried\"}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"worried\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-101080564,-1099610110,-2013245079,857497754],Name:\"Grumm Brown Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTczN2NhMWI5NzY2NDcxZmEyM2Y5YjI4Yzk2MWNhOThjZTA1ZGI0ZTdjNTUyNTJhMTJkOGVhYzg0YWU5ZTRmZSJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"brown\",HiddenGene:\"brown\"}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"brown\",HiddenGene:\"brown\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;1010073791,-506704983,-2145803623,-2062421617],Name:\"Grumm Weak Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QwM2ZmZjY3ZjJjNzU0NjcwMjM0NDgxNjA1M2M5Yzc5YTBjYTAyNmU3ZmM2YjRkODQ4MGE1NDBhNDg2MzM3YyJ9fX0=\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}',MainGene:\"weak\",HiddenGene:\"weak\"}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}',MainGene:\"weak\",HiddenGene:\"weak\"}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:player_head",
+              "weight": 1,
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner:{Id:[I;-1984617791,2065779251,-1570965913,-1745171777],Name:\"Grumm Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc0YzcxYjYyZTQxYzg3ZjE1N2ExMjQ4ODRjMTlmOTRlMDM4MzgzZjFlMGM2YzIwNjMyMWUwMTg1YWUxYTg4In19fQ==\"}]}}}"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Grumm\"}'}"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "nbt": "{CustomName:'{\"text\":\"Dinnerbone\"}'}"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "type": "item",
               "name": "minecraft:player_head",
@@ -177,6 +361,46 @@
                 {
                   "function": "set_nbt",
                   "tag": "{SkullOwner:{Id:[I;-652176701,1253853427,-1523590946,1843710337],Name:\"Panda\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlkZjQ3ZTAxNWQ1YzFjNjhkNzJiZTExYmI2NTYzODBmYzZkYjUzM2FhYjM4OTQxYTkxYjFkM2Q1ZTM5NjQ5NyJ9fX0=\"}]}}}"
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
+                {
+                  "condition": "minecraft:inverted",
+                  "term": {
+                    "condition": "minecraft:alternative",
+                    "terms": [
+                      {
+                        "condition": "minecraft:inverted",
+                        "term": {
+                          "condition": "minecraft:random_chance_with_looting",
+                          "chance": 0.02,
+                          "looting_multiplier": 0.02
+                        }
+                      },
+                      {
+                        "condition": "minecraft:inverted",
+                        "term": {
+                          "condition": "minecraft:killed_by_player",
+                          "inverse": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "condition": "minecraft:damage_source_properties",
+                  "predicate": {
+                    "is_explosion": true,
+                    "source_entity": {
+                      "type": "minecraft:creeper",
+                      "nbt": "{powered:1b}"
+                    }
+                  }
                 }
               ]
             }
