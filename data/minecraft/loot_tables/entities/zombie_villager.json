@@ -62,7 +62,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1142964937,332154486,-1984727695,-741432680],Name:\"Unemployed Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEyMjVhZTgyZTQ5MThlYjg0ZjQ2ODdmZTk3YTgzYjI5MTUxNWU3YTU2ZTU1NDk5YzhiMDQ2YWVkMmQ2ZTE4MiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1142964937,332154486,-1984727695,-741432680],Name:\"Unemployed Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI2NDc2YmE0NGNjMzg1NTZlZDRhNjEwN2UxMTc3NTQ5OWVjYjZiYzg3MDA1OGU4MDViYWVlZWFiOGE5MmYyMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -81,7 +81,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-466241793,-1808446204,-1921248200,-1670168609],Name:\"Unemployed Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ5YTQ2Mjc1ZGVjMGMyNDdkZjk4NmRmYjRiMzUxZDI4OWYwMjQyYjVmY2Q2MjBkYWFlMTEzNzI1NzIwYzdjOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-466241793,-1808446204,-1921248200,-1670168609],Name:\"Unemployed Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNWRlZDNmODI0OTAxNDJlZWZlOTQ3MTQ1NDRhMmI4MmUxMWRlODJkNTU0OTcwNzI4NjU0Zjc0YzNkNzhkZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -100,7 +100,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-684646928,-1780986962,-2040836982,-735132460],Name:\"Unemployed Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ1YzExZTAzMjcwMzU2NDljYTA2MDBlZjkzODkwMGUyNWZkMWUzODAxNzQyMmJjOTc0MGU0Y2RhMmNiYTg5MiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-684646928,-1780986962,-2040836982,-735132460],Name:\"Unemployed Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyYjczYzc4YjY0ZWYzYTNkNGFiZTcxNjU2YzhhMDM1ZDBhYmUwNmMwMTc3YzJkNzgxYzRlODYzMGI5OTYzNyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -119,7 +119,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-2057091312,847594753,-2028934294,-1323712734],Name:\"Unemployed Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDY4MGVkM2ZhNDFlZmYxNzFiMzBmZWU1MjQ1MmQzYjg5Mjg0OTU3YWY1YzVmZDRhYTYxYjhiZjFmNmY2YmQyZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-2057091312,847594753,-2028934294,-1323712734],Name:\"Unemployed Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk1NTk5NjYzY2Q1Yjc3ODg4YjY1M2FmNmI1N2Q1YzQ4ODA4MDczMzg4ZDQ3MDFiMjU0MGU5MjUxMTczNmYzMCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -138,7 +138,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;44516478,-395556237,-1526244445,585043167],Name:\"Unemployed Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRlMWZiZTcxMWE2ODEyZTUzZmQ1NjI4MGE4ZjdkOWMzYTVjOTUwNjY3OGZkZWY4ODkzNDE4YjBlZmFjNTkwYSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;44516478,-395556237,-1526244445,585043167],Name:\"Unemployed Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQyNWU2YTM4NDFmYjZhMWEyNjliN2UwNjk3ODVkODViNDc4YjQ1ZDFlYTkwYTRiMmM1ZWM3ZjRjNjg2NDQ4MCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -157,7 +157,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1955167765,-1368833639,-1434009799,-1237638902],Name:\"Unemployed Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE2ZTE4NmEyYjNkNWQ0MjcxNzJiNzRkYmQ0ZGFjYWYyODdlN2U4ZmZkOWJiZDFhNDdhYzRlY2U1MDZhZDJmZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1955167765,-1368833639,-1434009799,-1237638902],Name:\"Unemployed Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWYyMGViMmM0ZjhmNWFkMWEwMjMxNzBkMTZkOWE2NGQ2MjVjYzcxYTNkMzhkY2EyYTQzZmE1NTAxMzI3ZjFmNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -176,7 +176,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1404004258,-1340519455,-2007346334,-1238096007],Name:\"Unemployed Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU4Njk4NDQ4ZTMxNmQ0YmRkODMzZDk2MjFjMmRiNTQ3YjYwY2Y1YTU1NjZhNzlmMjk2ZmQ3Y2M5MWU5MThkOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1404004258,-1340519455,-2007346334,-1238096007],Name:\"Unemployed Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI4MGUyM2RkMWM0MmFiODRiNmM4MTM5ZTY3NzhhOWFlNWRkOTZjNTU4N2Y5YzllMGJkOWU3N2IzYzFhNGJhNCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -195,7 +195,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;473441499,-921155984,-2011289059,-139526219],Name:\"Armorer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI1YWZlYzRmOGFjNzJjMzQ5YzViNWNiNGNjNjY5MzUzMzNjZTQ0NTY3NDY4MTRhYjU4ZjRiM2M5MmMyMzhiOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;473441499,-921155984,-2011289059,-139526219],Name:\"Armorer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQxMjQwMDQwZDRmMTdmMDI1ZGY2NGNhZWQ1MGQwMDM4OGFlMDM3NGVjMzQxODE4MjY1NjMzOGMxMTU2YmViMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -252,7 +252,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;666940362,634998296,-1191724678,-768663445],Name:\"Armorer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWMyNDUzNzkwOTM1NDI1NjRlNWUxM2IwNjg2NTkzODFmYWQzMTk2MDQ2NzQyNWM5ODJjMmVhZTIwMjYzZjYwZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;666940362,634998296,-1191724678,-768663445],Name:\"Armorer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk2YzMxNTg0YjcyOWVlZDA3YWE1ZDMwNmJlMTg4ZjAyNDZkNTY3OGVkZWFjNDZjZGFiNzZhN2Y4MzJjMTQzZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -271,7 +271,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1869195760,906512888,-1841683309,1713700613],Name:\"Armorer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc1OTVkNzcyZDg1Y2VkMTg4YmI2YjA1Mjc3ZGQ5MDk4OTFhMTVhNGJiODdjYTdiNzYzNDY4MzdmMzk1MjI2ZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1869195760,906512888,-1841683309,1713700613],Name:\"Armorer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkzODdkNGU3NzBkY2JmNTBiNjM5ZDZlY2NkNjQ4NjdmMjMzN2FmYmQ4ZTM0YTI1NzQxMDdkMjNhYzAzNTUwMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -290,7 +290,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1759925487,937706584,-1318598696,-946045792],Name:\"Armorer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFjNjg4OTdkNzE0OWFlNjdkYThmNGJhZDdhYzYzZmM3Y2JkYjk0YWY1MmRlMGU0YWQ3YjZkYjlmOWNmMzQ5YyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1759925487,937706584,-1318598696,-946045792],Name:\"Armorer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTIzZjZiMWVjNTM3NmZhYzU0OWY0MjJiOGRkZTBkYzYyZWRjNzZhMjA0NzYzZTU1ZWNhYTFjZDcyMzQwNjg4NiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -309,7 +309,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1989681571,-1741207489,-2005885906,783094201],Name:\"Armorer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA0MTNhMTQyMmNjODBkOWRkNWViYzg5ZWY0ODkyNTZjN2QyODg4MzlhYTM3ZTNjYzcxMmVlZDllOTc5YjlhMSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1989681571,-1741207489,-2005885906,783094201],Name:\"Armorer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJjODJhZTYyYzkxYmUxYTc3NjlhYWM0NDc0ODg4MzdkM2IxNmRmYmIxZDYxZWE4MjE3YjE1MzY2ZjY3YjYifX19\"}]}}}"
                 }
               ],
               "conditions": [
@@ -328,7 +328,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1099930523,-1606138692,-2116231460,503020130],Name:\"Butcher Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWEyNTM0MjI0YzkzNTg4YWM0MDE3NzQ4NmFkMWJjODY2NjhiYzhmMGI2Y2E4ZDA4M2UzYWJkMmE1MWNkOWFiYSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1099930523,-1606138692,-2116231460,503020130],Name:\"Butcher Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y1YmM0YzI1OTQ2ZDIyNGRkZTRkN2VhZTgwZmJjZDY1OTFlNDM2YzllN2UzMzhhMDliMTEzZmE2ODJkMmZjZiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -385,7 +385,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-2064606815,-403419754,-2026030945,1239055050],Name:\"Butcher Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTgwOWMxNmNmZTZkZTI1YTA4MzM4NGRkNjZkNzYzNmI0YTM1ZGFiNGU1NDU1OGEyYWNiMTkxOTNhMWIyODczNyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-2064606815,-403419754,-2026030945,1239055050],Name:\"Butcher Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzYwNjljY2NiZjRkOTc1ZmYzYTM5MjFjNDY2NGU3NDQzOGMzMTczZmNjZmFiNjgxNzVjMTQ4ZjBiMjI3ZWVkOSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -404,7 +404,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1461680446,-1043313228,-1704164114,1069228769],Name:\"Butcher Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE1NWYzZDkyNjU3M2FkNjY1YWI4NDU4NjcxMDZmZmFhZWVmOTQyMWU2ODQyN2ZmYjI3MTc3YTA3YTc3MTg3MiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1461680446,-1043313228,-1704164114,1069228769],Name:\"Butcher Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlkM2FkN2VhZjdiODgxYmQ3MzliNGRlMmFmN2YyNDdiYjFmZGQxZGEzOTM0ZTZhZGIxODFlN2YyMTRkZTllMiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -423,7 +423,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-494283767,1941000125,-1081147524,-1470857727],Name:\"Butcher Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWYxNjU4NDYzMjE2MDM4MWIzYzQ4M2U3MTc0YjJlZTU3YzI0Mjc2YTE4N2NmZWUwNzQwYTRhNWM2ODdmZmFkNyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-494283767,1941000125,-1081147524,-1470857727],Name:\"Butcher Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNiNGZmYmE4ZTYyMjMzNDc4ZmYwOGYwYWEyNzQ0ZjA5MWY1MjViMmEzOWU2MWRmYTQ5Mjc3ZmZhOGZiMzI1ZCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -442,7 +442,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-523260393,-2100147577,-1094487873,-1075801574],Name:\"Butcher Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ0YmNhNjgxNTFkNTlmMjIxNDdlMmVlYjEyMzQzZmU5OTI3MTViZDA0OWIyNzk0MzEyMGIxNDI3OTBhNmI5In19fQ==\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-523260393,-2100147577,-1094487873,-1075801574],Name:\"Butcher Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y0ODViZWY3OWVhOTNhMTExZmRjYmU3Yzg0NWU2NjNiZDc1YjVmNzk5ZjkyZWFjNjkzMzA1NjQ1ZjY5YTVlNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -461,7 +461,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1120181098,244927427,-1603549628,-760017194],Name:\"Cartographer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjgzNTM3NDIxMGM2YzE0M2Q0ZGIzMmY0OTgxODc3MjM4ODljMjNmNTljN2VmZGZlOGZjZDQ0MGMwYmJmYWUzOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1120181098,244927427,-1603549628,-760017194],Name:\"Cartographer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmYyMmE3MzgyYTJhZGRlZWIyNzAzZTRiOTUwMzdlNzU2NmQ4YzdiOGNmMDdlZjVhNWI3YzNkYjk5N2ExODhhMCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -518,7 +518,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1731042341,765609316,-1173482996,127698407],Name:\"Cartographer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQwMzVhY2EyNmJlOTdiZTg0MDY0MDZmMTU1N2ZhOTkwNzM4NzcwZmUwMzgxOTRhNGFiODFjZTBjODM5NmM3MiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1731042341,765609316,-1173482996,127698407],Name:\"Cartographer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTdmOGNiNWUzMDU4OWQ0MmU0OWVjYTEwNzg5YTVkMDdiY2E5OTc0YmU0NmJmMTE3MzY1NDkzMTkyNTQyNmRkMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -537,7 +537,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-725152185,52774850,-2055911379,-328825533],Name:\"Cartographer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFiMmZmYTY3Mjc3YjA1ZDhhNTY5M2M0ZmE2Y2FhYjI3NzE0ZDlhOWU1NmU0NmUyMTYyMWE1NzhiYzcxYmJmZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-725152185,52774850,-2055911379,-328825533],Name:\"Cartographer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNiNGMyOTkxODc5ZWM4YzBjMWRiM2M3NTY0NjVhMmJjYWJkNzJlZTk2OTFlYTU0MzEzYThhZWY2ZjhjNWU0ZCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -556,7 +556,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1602260393,-408794459,-2099592509,1186132687],Name:\"Cartographer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YwNDlkZmEzZmM0ZDJmNzJlOWVhOWI5NjBmMDdkMTIzNjlmZTc3YTA0MmVjNzAwNThmMmFhNjUzMjEzNWZhOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1602260393,-408794459,-2099592509,1186132687],Name:\"Cartographer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIxNjA5MTJhNjEzM2M1OWU2YTAzMDdjZDdiYzUzOWY0OWNkMTUxNzc1Zjg4NDkwNmFiM2I1MmZkZTdmNjM0ZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -575,7 +575,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;391196770,-551466728,-1542204235,-170661667],Name:\"Cartographer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmYyZDVmODMwYjQ4MTVjOTBiZjRlZGQ3YzBjMDliZDdjOTE1ZmFjZDBjMjhhZDBmZDQzOWY5YjAyNGM5MGIyNyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;391196770,-551466728,-1542204235,-170661667],Name:\"Cartographer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWU3N2JiYjA0MTA5NzVkMzgyYjliYjhhZGE3YzAwMzBkN2VlNDZjNWY4MTU0ZjM3OTE1ZTRmNWU5NWY4MDUyZiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -594,7 +594,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1292431533,90783847,-1852806335,1877735492],Name:\"Cleric Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjg5ZDg1ZjQ1Yzg3ZjEwYjNkZTQyMTQyNmUzYTgzNzE4ZDc4MDZjZWZiMDIwNGJlYTBjNjI5ZjM2MzE1MGYzZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1292431533,90783847,-1852806335,1877735492],Name:\"Cleric Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJkMDEzN2VlMjkwOWQ5YmVkM2MxMzhiZWQ2MWNhNjFlMTllZDQxNjdkNjkwYWIyZGU3OWY1YjUwN2Y2MThkYyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -613,7 +613,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1638943099,76169974,-1529947681,1320149728],Name:\"Cleric Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ4NWVhNjk0ZjY1ZTczZWI1NDZkYzJjNTg4Y2YyZDA3MDZiYzVlMDhjMTRlNzEyNWY5NzNiMzAzZmY0YzhlOCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1638943099,76169974,-1529947681,1320149728],Name:\"Cleric Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU3ZDQ4N2Y1ZWRkZTc1YzFlYjE5ZjRiMzNkOThlMmViNGE0ZTRjYjBjNzE2MDM3MTQzZGFlYmVlMjdjY2VmMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -651,7 +651,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;756088348,1818707870,-1570717903,779641495],Name:\"Cleric Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA1NjhjMjc2MmIyYWU2NTg1YzIzYTI2ZDg1Y2ZkMzA4ZjEyMTgzNTVlMWVjZDNiMTFmNTliNDAyNGZiYjEzMyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;756088348,1818707870,-1570717903,779641495],Name:\"Cleric Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTAzYjczNmY1MmRmMGQzMDhiZWQwN2ZhZmQwZjFmNmU5YThkYWM4Yzg4YmI4YTU4MGNjMzZiMDNiMzYyZmYzMiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -670,7 +670,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1671782355,237848302,-1152778401,1726272245],Name:\"Cleric Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGU2ODdhY2Y5MDllZjZkMzk5NTMyODI5YjdkMDZhNmIxNjA2NzgyZmNjOTg1NzcxNmU4MzI0NzEzMzA1MjUyMCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1671782355,237848302,-1152778401,1726272245],Name:\"Cleric Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzBmNmY5MjkxN2ExMWQzMDM2NDEzOGE1OTFkYjlhOTc4ZjM4ZmFiODU4NTI5YjYzODU3NmU0M2U5YzJkMmRmOSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -689,7 +689,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1183658654,255412974,-1857390945,1854183966],Name:\"Cleric Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI4OWFmNTNmNTA2Y2I1MmJjMjA1MDY0OWU1YTdhZGMxMTk5ZmE0ZmM0ZjlmZmYxODU0ZGE1ZWI2MDk2NmI1OCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1183658654,255412974,-1857390945,1854183966],Name:\"Cleric Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JiY2JmODAxMmFkMzEwNmEwZWFiMDBmM2IzZTgyNzI2NDBjOGFmYzZiNmM1YWNhZjUyMWNiNmFiNGUzMTdjNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -708,7 +708,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1042295236,-37861924,-1220810181,180384176],Name:\"Cleric Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5NmY2Yzg1NTdmMTA3NjhjZjA4NmIyY2VmNmZjMDIzNWFhNWMxOTE4MjdjZTA5OTNjOGU4NWI2N2M0MjcyZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1042295236,-37861924,-1220810181,180384176],Name:\"Cleric Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzJmNTMyMWFkNjYzM2Y1ZTY4NWNjMTkyNTllZjgwZDA3NmRhMzI0NzQwY2Q3MzJhZWQ4ODVmNGQ1OWY0MTEwMyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -727,7 +727,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1972809831,814960203,-1520671058,-2106654486],Name:\"Farmer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRiZWE1ZmUwZDE1NDY1NGVjZGU0MmUxNjcwZmQ0MzA0NjMxOTBjMjlkNGVhZWU3YmY4YWI1YzI3MzE4NzM2OSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1972809831,814960203,-1520671058,-2106654486],Name:\"Farmer Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmNiZDg3ZTI5MzVhZGE2MmQ2OTM5ODgwMTJmZTBiMTM1NGU1M2E2MDQ3N2ZkYWUzMjQ4ZDU0NzcxNjU0ZmZlNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -784,7 +784,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-482351142,39275902,-1829681510,260335734],Name:\"Farmer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGExYmE4MTI4M2FmOGFmZjdiYzYxZTBhMDJmYTcwMTIyYWQ2MThmNTM1ZGIyN2VkNzZiNDk0YTA5OGM4MDQ1MyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-482351142,39275902,-1829681510,260335734],Name:\"Farmer Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMyNmE3YmY2ODgwMjJlMDlmNzhiYjBhZDk4ZmE5NzZkMjIyODkwYTI2ZTEzYzE0NWQ4NjY1NzIzOGI1M2U5MSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -803,7 +803,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1879898005,761742060,-1928732371,-1152004503],Name:\"Farmer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM1ZTI0N2UwMzBlNjA3MGUyOGM5ZGUxYTRmNDcyNDUwNTIxZTU3M2RhNGQyNTkyMzVlNzAyYmRhMDkxMWE3NSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1879898005,761742060,-1928732371,-1152004503],Name:\"Farmer Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzk2ODllOTI2ZGI4OWMwNzc4NjY5ZTNjMjU4OGQ4ZTY3M2E0MjhlNzUwMjMyN2Y0MTczYzllYjFlMDlmZGJkOSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -822,7 +822,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1327497674,-1276884401,-1872222363,-1381502632],Name:\"Farmer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTg3MzY1MDQxMGQ4NTU3YTgxYTI3YjliN2Q4NTU4N2RkNWQwNGZhNzFkMmMwZjY4NjZjZTQ4NDMwMjUyMDA4ZSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1327497674,-1276884401,-1872222363,-1381502632],Name:\"Farmer Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGViM2ZiMGM2YzNjYjVkNTA4NmY4NWRjMmZlY2RhNGExMjM5ZTY5NDZiN2JmNDljZWI3ZTgxYzU1NjhmNDgzNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -841,7 +841,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-679816780,1354974506,-1214032833,1589117379],Name:\"Farmer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA2MTA5MjQ0MzZlNzEyNjY3MjFlN2M4Y2FkN2VjZDZhZmQ4ZDFkMGRkZmMyNGUzOGNmMDc4OGI2MjBhMDExMSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-679816780,1354974506,-1214032833,1589117379],Name:\"Farmer Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ1NzQxZmU1OWUxNDFkZDc0M2ZiYjlmMmY2ZGY0ZDQwOWMwN2EyMTA2YTkzMjc1NmVmMzMwY2IzM2FjOTRlYSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -860,7 +860,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1830210290,1889682969,-1477557671,58428660],Name:\"FisherMan Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRiYmIzY2Q2NDA1YmFhNDllMGQxMDg3NTU0YzJjZTU0NWM1NDJmM2ExOTFhYzljM2Y2ZGYzODk2OGUxMjdkNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1830210290,1889682969,-1477557671,58428660],Name:\"Fisherman Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFiZGZlMzYxYTQxZjI1Y2E0MGJmMjhjZGMyMmIyYWE1Y2NkYWI1MmYyM2Q3NTllMjM2N2M4ZWVjODk3N2U4ZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -879,7 +879,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-593809616,1532052333,-1431256193,1781130052],Name:\"FisherMan Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc1M2NiMjNiNTcyMGUyZTM2NWJiNDI5OTJlNDAzYWUzNjFlMzU2Y2M0ZTRiNjZlNTRmNjI5MjUzNmYzY2MwNSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-593809616,1532052333,-1431256193,1781130052],Name:\"Fisherman Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc1M2NiMjNiNTcyMGUyZTM2NWJiNDI5OTJlNDAzYWUzNjFlMzU2Y2M0ZTRiNjZlNTRmNjI5MjUzNmYzY2MwNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -898,7 +898,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1203420190,-581875757,-1641739686,1167710361],Name:\"FisherMan Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTZhODA5NDk1NTQ5ZDNjNWI3MGQwNmEyOGE1ZmE2YmVkNzY1ZGE3NjczYzZkMzYwM2M2NDk4YjM2OGJjZmMzNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1203420190,-581875757,-1641739686,1167710361],Name:\"Fisherman Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTZhODA5NDk1NTQ5ZDNjNWI3MGQwNmEyOGE1ZmE2YmVkNzY1ZGE3NjczYzZkMzYwM2M2NDk4YjM2OGJjZmMzNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -917,7 +917,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1221978541,-2001582836,-1302136379,1859535554],Name:\"FisherMan Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU1NDY1OTQwNWUyYTYzODM3NTdmMDJlZmE3YzVhOWQ0ZTE5ZTU1NDUxOWUxOGU4ZGEyMDQ4MDhiMWI1NjViOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1221978541,-2001582836,-1302136379,1859535554],Name:\"Fisherman Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWYzNDgyNTdiNThlNTkxNWFlZWZkZjIwNjRlMzRmMDJlZTQ5OTA5N2FiN2RhZDljOWVmNDFjNWFiMGUxZjZjMCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -936,7 +936,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1725033808,759644210,-1095292605,587723833],Name:\"FisherMan Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIzNDg0Y2M5Mzc5ZDk2MWMxZWEwMmI2MjhjM2EwMzk5ZGU3MmI5ODM4NzE1MDc5MWRmN2E0ZDQxYjhkMTJmMiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1725033808,759644210,-1095292605,587723833],Name:\"Fisherman Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY1MGVkMDI4NTBkZDY5OWM3MTcyMGVjYTU5ZDllYmVjZmE1MzNjYjMyMmQ0OWQ4NmY0ZTVkNDcwODBkZWIxMyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -955,7 +955,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;698759422,490882047,-1175821519,749100082],Name:\"FisherMan Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJiNWYxNDRlNWRkMjQzNjFmNGM4ZjY2N2M1MDgwNGZlOTZkN2EwODRmOGVlNGYyYWFkMDFhZWIxMTRmZGJiIn19fQ==\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;698759422,490882047,-1175821519,749100082],Name:\"Fisherman Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODlhN2ZhODNhODNmNGY3YTcyZGJhNmM3OGNjNGIzNGY2NGU4N2I0ZWNlNTI5NWU3NjAzMDM2MzZjMTQ3NmVmOSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -974,7 +974,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1585344805,731728385,-1200265947,-625267609],Name:\"FisherMan Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAyZWQ0NGZkMGNjOTU5ZjhiNjU0ZmZmN2EyN2IyZGU2ZGViN2EwY2NmOTQ0NWFkMjVlZDBjN2RmMzY5MGZmYiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1585344805,731728385,-1200265947,-625267609],Name:\"Fisherman Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODIxODJmMTE0ODhhODk2MzQ1ZjcyYjJhZTVkOWZmYWMzNDEzNGIyMjU1YjBkYzEwMjQ1ODdkOGVmZGI1ZTI4MSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -993,7 +993,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-543661787,244729584,-1850883483,-1945801953],Name:\"Fletcher Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU4OTI2NmNlM2UyZDFmOTdkYjg5NDU2OTkyNmNiNjJmZDg3ZjkzMjBiMjI3YzJlMjg5MGJlYTJmNzYzNjljYSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-543661787,244729584,-1850883483,-1945801953],Name:\"Fletcher Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkxNjNiZjk3MmQyNTlkZmJmMDA1MTkxNTU0N2RjOGUyZjc4ODQ1M2VmMWFjMjk1YWRjZjI0ODM0NGJmNGIxIn19fQ==\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1050,7 +1050,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-284991810,-799653820,-1535554140,575453614],Name:\"Fletcher Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0MTI5MjIyNzc0YzNmYTVlODBmNzVhMzFkOGI0ZWU4ODJjOGNlNjE2MzdiM2QwYTIyM2RlMmU0ZTY1NWI0In19fQ==\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-284991810,-799653820,-1535554140,575453614],Name:\"Fletcher Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFkNzRjNTIyY2ViNmNlYTMwMWE2YzQ4MDA2OTJhZGRiZGVkODIyZGYyOTdkYWY4M2M2ZmNiNGEzMmFlY2I2MiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1069,7 +1069,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1331724485,2042446761,-2043338277,-413457342],Name:\"Fletcher Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWM4YWI3MGNjNTM4NzkwMWIyOTBmN2Y4MTU4NWZmMTlkYWQ1ZTYyNTY0YWQxMTBiM2UxZGE3OWRmOTVlMWMzMiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1331724485,2042446761,-2043338277,-413457342],Name:\"Fletcher Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzcxMzNkODA2NGIxZjk2NWUzOTRlYzM0ZWU2ODRiZjU4MzNhNzkwMTkxYjhhYmM1MTZkYzYyYWVhMjI2YzU3MSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1088,7 +1088,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1737832425,155599988,-1363217870,-859593239],Name:\"Fletcher Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTliOWUyODBiZmJjNjFiNWEyNTRkMzA5ZGQwODNjYzI3MjJlZDA1OWMxMWEzYTBlZGE5MzE2YmFlN2FhYWUxNSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1737832425,155599988,-1363217870,-859593239],Name:\"Fletcher Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ1ZTc0YWI5Mzc1ZjRkYjVmY2QzN2M4MjVjZDFjYzY3NWQ5OTFlODk4YThhYjZhMjAzZThlODkzOGYyMTFlOCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1107,7 +1107,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1975054001,127224830,-2068261946,202990278],Name:\"Fletcher Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY4MGNjNGE1ZjFiYTZlNWEyOTdkZTdiZjRiMzY3ZGJkY2I5YTZmNDZjNmM2OGRhYjIxNWQ1OGQ5MmZmY2RkNSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1975054001,127224830,-2068261946,202990278],Name:\"Fletcher Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJlOTVkMTBjM2JhNmY2NTA5ZDE0ZGQ5OGU4Mzc3Y2M3YzI5OGI3MDk2OGEwZmY2NDJiZWRmNTc5MGM4OWE5NiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1126,7 +1126,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;920750240,2063747905,-1360851816,1240405469],Name:\"Leatherworker Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjcyZDk4YzkxMDFjNjllNzRkN2JhNjUyMjlhOTQ5NzE2NTM1YmNhN2Q5ZjQxZWQzYTQwYjY1M2U3ZmM5MDNiNCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;920750240,2063747905,-1360851816,1240405469],Name:\"Leatherworker Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzBlNzhhMTRhMWZmNGRkNDc1YTVhZWVjODljNWEzMDA5MDk1OTU0ZjAyZjgxZDJlZTJkMjhmMzk0Y2YyZDZlZCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1183,7 +1183,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;2039302862,180308132,-1233277703,618217901],Name:\"Leatherworker Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDMyZTY4ZWNmZjhmNjk1ZThjMTAyNDg1NDRhYmY5OWM4ZDQ1MDdhMzllOGQ1ODZmY2JlN2UzYjIzYWFhN2RlYyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;2039302862,180308132,-1233277703,618217901],Name:\"Leatherworker Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY0NmFmYjA3MjI5YmExOWE2MDYzNjY2NDExNjEyOGM3OTNlNmVjYzdmZGQ1N2QxZmJkZGE4ZWIyN2ExMjZmZiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1202,7 +1202,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-981076417,1016742058,-1879523892,-1223012009],Name:\"Leatherworker Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA4MGRmMzdjMzRhM2ViZjcxMTA2ZTE5NWQ1ZWE5MjMzOWJjNzAzODkxOWU3ZDgyNjdmYjNkODY5NWIyMzkzNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-981076417,1016742058,-1879523892,-1223012009],Name:\"Leatherworker Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGY2Nzc0OTg0NGM0YjM5OTNmYjczYzAyYzEzOWY2NWM3ODAwY2JlZTI1YTBiNzBiZTUzZDJmY2E2OGZjZDUzNCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1221,7 +1221,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;607744665,-948090556,-1658160342,806101466],Name:\"Leatherworker Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjczYTY3NDgzNGM3MmU1NTQ4ZjRhMWY2YTEwMWM4MmEzM2VjNjQ4NjI2NDYyN2YwMGQxZTA3M2Q3YTQwZDRkNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;607744665,-948090556,-1658160342,806101466],Name:\"Leatherworker Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjY3Y2QwNjdmZDI4N2I5NzYzY2EzNmE1YTM3MzNjYzUyN2FkZDYwZmUxMTFhZTBmZmY0NzUwODBhZGQ4NmJmYSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1240,7 +1240,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;572226981,-1452783586,-2136916249,1741694509],Name:\"Leatherworker Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRjZWIzNWEwZDFmOGE1ZmQ0YTg3NWY5NzVkN2E1YjdiYmM2YWU4N2VmOWU0MWUwM2RjNGZmNTA5ODg4NzIyMiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;572226981,-1452783586,-2136916249,1741694509],Name:\"Leatherworker Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZkYzE3ODdiOGFjNmExZTc4NDEyZGZhNjFiZGYzYzllNzZjMjAwMDI4ZjViODBiNTY1NTE3YmU5NDVkYTdmMyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1278,7 +1278,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-670082370,-1738977819,-1336996849,973636496],Name:\"Librarian Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE5OThmNzYzOGRlNWFkMGU5MDJiMjlkMTc3ZWRmOTQwZGNhZGRkMDYzM2ZkMDBkOTBiMTQ2Y2ZiYzQ3YWUxNSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-670082370,-1738977819,-1336996849,973636496],Name:\"Librarian Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg0YzQ4NjI1MWQwMDM0OWIzZjBkY2IzZDlhMDc4NWIwY2ZlNTQ2YzQxODY0NmQ5YjU2MWVhMjRlNzcxYmExNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1316,7 +1316,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1725996314,-871478511,-1442806529,-1249099540],Name:\"Librarian Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ2NzIyMDQxYTEyZTJkMTFiMGFkMDk5MmVmODE1ZjQ5Y2NjYTU2MmM5YzE2NzU5MmQ5YjQwNjUyZDVjOGYxYyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1725996314,-871478511,-1442806529,-1249099540],Name:\"Librarian Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhYTUzZGYwNzRkNDRlMDY4YWE3ZDFkYzIzYWVjZjE5NWFiZWUwMmE1ZTFkMmQ3ZTg0NDI3NzRiYzlhMjEzMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1335,7 +1335,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1112321697,-1684844639,-1705641687,-584662704],Name:\"Librarian Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIwNzdmMzAzNTdkNWRiOWFkMDA4YzQxMGYzMzMxOTIzNmZhNTUxYzQyZTQ4YjYzOTkyMmZkZmRlOGVhNzVlMSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1112321697,-1684844639,-1705641687,-584662704],Name:\"Librarian Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmMzMDRmMGRiYzU5MjU0N2Q3ZDM0OGRiYzRhMjRmYzMyZmRjNGJjOWU0NmUxMjBmNzIwMDdhODg4ODVjYjVjIn19fQ==\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1354,7 +1354,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1080802018,2116111138,-1719014224,-1373332264],Name:\"Librarian Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFiOTViYjNhM2VlYmYwZTFhMjExYWY4YzgyYzcxODJiYTA0OGRmYWQzMTYwOWNmZTg4YmFiMmUwOGJkNjY0ZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1080802018,2116111138,-1719014224,-1373332264],Name:\"Librarian Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzczNDZiZjU1ZjRhOWUzZWU2ZmQ4ZGNhNGI3YmM5MTQ3NGFiNDBlOGU1YTE2MTkyNTkxNzgzNjZlOGRjMjEwZiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1373,7 +1373,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;668777771,1884704253,-1450332036,1111412723],Name:\"Librarian Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ4NTU2NDdmYzYyZWE5ZmRjZWJmMDMxMTRhY2ZiYWFlM2VjNTQ3MDU1MzI0YTc1MmZiZmExMjM4ZDMyOTY4MyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;668777771,1884704253,-1450332036,1111412723],Name:\"Librarian Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmVkNmRjZTdlNGQ3YTVmODIzMjFiZmE2YWQ3OWRlZjI5YjNjMGM3NjJmZWY5OGM0MmIzOWU0MGQ4ZDMwNjFlZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1392,7 +1392,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-878325470,-739686666,-1442551062,-1602915647],Name:\"Mason Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTdlZTZlNzYyNDM4NzliMjE3ZDFkZWU1OGQxNDA3ZWZiZTc1MDQyZWJkNWY5YzFkOGIxNDExZjViNzEyZTlkZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-878325470,-739686666,-1442551062,-1602915647],Name:\"Mason Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDA5M2VmNjRlZDY5YmQ5Mjc1ZjFjM2VhNzRiMzA4ODYzNDhjNjMzN2JiMTg0NDgzMzZjYmJmMDJmMzI0MTA5YyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1411,7 +1411,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1437530912,932201231,-1887812087,-1997815717],Name:\"Mason Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZiYzJkOWNjMzE5ZTg0M2NjNmQ2OTIwNDMwZmUyZDlhZWIxZDE3YmE5OTg5YTQ0NTA0NjBjMTBiNzkzZDc4ZSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1437530912,932201231,-1887812087,-1997815717],Name:\"Mason Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwZDEyMDE3YWE4NjU0NTgzYjBhZGJhNDJlNWRkMmRhMzhkN2RiMjhhMDM4OTU0NjQyOGU3MzUwM2RkYmE0ZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1449,7 +1449,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1122871709,1617511187,-1711803000,1421954035],Name:\"Mason Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4OGMyMzliODBiMGFjOThkOTc2MWU4MzA2ZGQyNTAwYmU1ZjUzNTQzN2Q1ZDY5MTNiODcyY2IwNGMzMDIzYyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1122871709,1617511187,-1711803000,1421954035],Name:\"Mason Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZmOWE2NDRjYmI5OWJkMmY4Zjk4NmQwNjMzZDUyZTA5YmNkZmZjYTcwNTc3NjAzMmM1Y2MxNzM5YzQwYjM4NCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1468,7 +1468,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;956047376,-1646441765,-1938258520,213036764],Name:\"Mason Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM0NWM2MThlNDE4OWQzN2NhYzQ2NGQ3ZTgwMTU2N2U3ZDNhNTI4MjEwYjRmMzEzOGVkOTEyNGNiNjBkZGNiOCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;956047376,-1646441765,-1938258520,213036764],Name:\"Mason Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1N2ViOTUwMmZkZDEzNmJmMjc0MTQ5YTUxMTU0ZjA2MzYyODdkM2U0ZmFiMzg5MjE2MTEzZjJhZTY0MjQzNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1487,7 +1487,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1079597129,-1579990275,-2025666488,-1528714513],Name:\"Mason Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUyOTZiM2Y0MTJiMmNjNWVhYTMwMGNkZTg1MmJiMTE3OWM2ZGRkNTFkNzE4Mzg2NWZiYTUwM2Y2MjVjN2IxMSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1079597129,-1579990275,-2025666488,-1528714513],Name:\"Mason Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmEwNTA3OTYwMzU5ZmY5MGQyNGQ1YmRmOWJkOWRhZTVkZTU2MjEwNmVhODRhNzE5ODE2Yzc4ZjJkN2ZjNzY3YiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1506,7 +1506,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1460704433,-775401727,-1615447353,1569557708],Name:\"Mason Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2M2YTM4MDFmNTg0NjM4NmUwYzhkMTcxNDdlNmVkYjc2YjA5ZDVlNjAyNGIxYTc0ZjQzMWJkNDM5NzQwNWE3YyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1460704433,-775401727,-1615447353,1569557708],Name:\"Mason Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ2YzkxNjI5NTBjNWNhNjFjYjQ2ZGRmOGE1YTMzNDMzNDQwZmMwZjNkYmI5ZmRhYzQyYzFmYjZhZmZmMjkyOCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1525,7 +1525,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-2025995758,2055554870,-1079529336,1767092299],Name:\"Nitwit Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTk2ZjdmZTcyOGY5ZDUxOTNkNTllNjlhM2MyMzNiNTFkMGM2NzYxNmI1Y2EwNzYwMWYzYmM0OGRmMmZmMmU0ZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-2025995758,2055554870,-1079529336,1767092299],Name:\"Nitwit Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI4MGJjNzllOGQxZDIxOTViNzBiN2I3MzE0YjQxNDlhNDExNTk5YThjNTM0ZjZmZTk4Yzg0MDhhOWNiMTY2NCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1544,7 +1544,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1548971545,-990691194,-1291546685,-1019276805],Name:\"Nitwit jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM4MWMyMTkxNjAxMDAyNDU5NGJiODYyYzk2NTliMTY3NzkzN2IwMjc1OTkyMzljMmJhNmRiM2E3OTRjZDhjZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1548971545,-990691194,-1291546685,-1019276805],Name:\"Nitwit Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjExN2QyOTAxNDRmMzFkOTBmYmRhZGVkNWUzN2I4NjA1YjRlZjMzN2E0YzNiOTU5YTJlYTk4YzgxMmQyZWQ4ZCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1563,7 +1563,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;193712980,-2095428636,-1194972880,627085931],Name:\"Nitwit Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEyN2U0MjBmNDRmOWJiMDZjN2IzNjg0MDJiMjJhZjZkYzU3YmY5ZThjYTM0NzU4NDBmNmY3NWUyMTc4MDljMSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;193712980,-2095428636,-1194972880,627085931],Name:\"Nitwit Plains Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWUzZThjNDQyNmM2ZTE1OWMxNjEzMzVlNWZhYTU1YTg3M2FiNjc1NTVjYzE1NTlkNjk4MGJiOTU5OTkyYWU2MSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1582,7 +1582,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1153440828,628707140,-1791383340,1611761399],Name:\"Nitwit Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2YwNTA1MzRiNmQ3YjcyY2IzNDg1NzA4NGM0ZWUxZWU5ZWMzNmRiODVlODFhZmY5M2UyNTRkZDk3ZWI4YTNiOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1153440828,628707140,-1791383340,1611761399],Name:\"Nitwit Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODgyYzgxYjllZjQ1MDEzYzRkNjU3MDg4ZjMyM2M5Y2I2OTZlZDZmZjA1NDBhY2JmMzMwYWQyMGMyNmJkOWRmIn19fQ==\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1601,7 +1601,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1584305190,2021671326,-1550231508,490987796],Name:\"Nitwit Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIyMzkwNjg4ZDY3YTU2ZTI4NmUzYjQ2Mzk3YmExOTE0OGY1OWY1MzkzNTgyODg3NWY1ZDFhOTkwMDdjODg5NiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1584305190,2021671326,-1550231508,490987796],Name:\"Nitwit Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU0Y2M4ZTdiYzI1YTE4NzE3NTY2MWVjZGJhYWQyMjg0ZDYyYWE0ZWFkOTgxMjQyZjYyZjAwMzJjMzUyNWE5NyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1620,7 +1620,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;538647651,1097813105,-1201759561,-649528776],Name:\"Nitwit Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE3YzQ0MDM1YzRjYmFjMTkwMzY3ZmUwMWJiZTViZTQ4MmM1NTBjNDdhZTRjNWNmNjA1NGNhM2Q0YmEzOTFjNCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;538647651,1097813105,-1201759561,-649528776],Name:\"Nitwit Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNlYWNiNjE3NWY1ZWYxMTZmYTc0YWU2M2NlN2MzOTZkOGNlMTMzMjI2YTRjOGYwZDY1MjdlNzUzNjFjYWE0YSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1639,7 +1639,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-524038533,-1263189021,-1912545775,1642690080],Name:\"Nitwit Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzYxZmJkYTQ5M2ZlMGZmYjhmYWM2ODQ4ODI5Y2NkYjk3NTAxODgxYjlhYzhiYTQ2OTZkN2M2MTNjY2QzNDU0ZiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-524038533,-1263189021,-1912545775,1642690080],Name:\"Nitwit Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NhODQ2N2M5MzBmMGU4YzAxMDYwMWFkNDFjYzhlMjY0ZjBmODY0NDg0NmM2MmE3MzlkMTYzYTJkNDZhNDA0YyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1658,7 +1658,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;2133933053,-515879360,-1094913299,-1278256817],Name:\"Shepherd Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmYxNGYxYTNmOTJmODQzMzcyMjJmMjVlZTNhYjRiZmE3MDMyODEwNmViNDYwNjBkODc1Mzg2N2FkOGExYTJjMCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;2133933053,-515879360,-1094913299,-1278256817],Name:\"Shepherd Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE2MzQ4ZjI4NTBhNjkwNWRiMjA0YTRiN2JjNTM0MDA0YzFmMTE0NGYzMTllYmUwNDY3YjM1NmYyNzRjOTUxMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1715,7 +1715,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1725205201,-1716565233,-1919087873,1459353438],Name:\"Shepherd Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE3MjAwMGM1OGFlMWI4Mzc4YWQ5YjhkMWE4MjEzOTA0ZDkxNmUwNGJmNWU1ZDQwODQ5ZjNhMWNmMjMxODNjZSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1725205201,-1716565233,-1919087873,1459353438],Name:\"Shepherd Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU4MTgxMTY5N2IyNjc0MmUyOThkYWJhMWRlNTYxYTAyOTE3MDRkNzJmMjg2NTBjYjhjZjZjNjc0YTRlNzkzNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1734,7 +1734,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;2107921938,1052983376,-1493727333,323699028],Name:\"Shepherd Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmMDBkMTZmYjZmN2QzZTk2YTUwODIzNmMyMWMyYTY0Nzk3ZTE4MmYwM2JhMWY2MGUzYzk2NTM3YzE3ZWRiNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;2107921938,1052983376,-1493727333,323699028],Name:\"Shepherd Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY0NjQyMTI2MzVlNmFmZWE1NWJjOThiMTIzZWU2ZWRjY2QyMjlkNjNmYzQyYzM0NDU0YWMyMWQzNTQ1YjljMSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1753,7 +1753,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1900473284,313675696,-1245352651,-925942975],Name:\"Shepherd Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU3ZTU4NmI3NjJlOGY2OWYxMTVjNDdjMzY2ODFjMjQyNjdkNDJiN2FhY2IxNjM4ZTg5NDk4MGYzOTI4MDc3OSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1900473284,313675696,-1245352651,-925942975],Name:\"Shepherd Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM3MGRkZWQzNmM0OGYxYTc2MjY5MzI2MDY2NjdhNDg4ZmFkMjE2OGY1OWYzM2EzYzVlOWM1NjQwM2JkZDgxMCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1772,7 +1772,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1083743901,-1942273613,-1917989952,1581329460],Name:\"Shepherd Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDA2MDlkNzIyMGY5ZjQ0ZDU0ZmRiZmY0OWRjNTBjMjk2MjY2M2Q5YTI3MGEzMTMxZDNjYjY3YjA1NThhNTAxNiJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1083743901,-1942273613,-1917989952,1581329460],Name:\"Shepherd Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYwZmUxMjM1ODYwMGFjMGZiYTg1ZGM4OGQ1YWQ2MDZjNjRiYjIzYjk4OWM5MTMxN2RiMTUxM2MxYmNhYWE2NiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1791,7 +1791,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;311823903,-1113764469,-1951256934,464059214],Name:\"Toolsmith Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA4ZDJkMGI4NDljMTNjYTFlNTE1NmYzMGJmMmJiZDNlN2U0MzA1YTZlYzI2OWMwMTU4MmMxODE3MTBlYWJlNCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;311823903,-1113764469,-1951256934,464059214],Name:\"Toolsmith Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhNWQ5ZGNhYTAxNDYwMjIxNTIwMTE0MmUzNzkwN2IwMzcxY2FmY2VmMDk0MzQwMGViMDk0YzliNmY2YjAzYiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1829,7 +1829,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-513469954,1732004525,-1603566168,-2032812276],Name:\"Toolsmith Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMwMzkwM2VlYjllNGY4OGQ0ZmUxNDkwYjQ2NzAxYTg0N2VkMjM5NzAxODFmMzQ4ODliZDM4ZTg5YTAzNGQ4NyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-513469954,1732004525,-1603566168,-2032812276],Name:\"Toolsmith Jungle Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllYzE4MmJjM2M5MmQ3YTE1N2ZmZmM1ZmY5ZDM5ZjY2ZGQ4YzAyMDI4NTUwYWU5YmMxMWJmM2YzZjRiMWZlYiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1848,7 +1848,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-240313639,-396866040,-1443203635,-492388012],Name:\"Toolsmith Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWY1MjU1MDk0YmJjMzU4YzEzYjNjNjIyODM5MWM3NzNkNjljNmE5Nzk0MjI2ZGIxYWI2YzJkODA0NWU4ODJiOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-240313639,-396866040,-1443203635,-492388012],Name:\"Toolsmith Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFiY2U0NWIwZWM3YzYwZmQzZTA2ZDhiMjgwNjllNjI0NzVjZDUyN2ZhZTM4OWE0YTU4NjE0YjhiZmQwNzU0MyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1867,7 +1867,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1988610493,1176718894,-2023507493,490446099],Name:\"Toolsmith Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzcxYTMwNDNmOTdhNzE1OTFhZTVjNjVlMzJhM2I2MWM4NjBlYWM1ODI3NzRlNWQ5ZDkyYTk3MTQ5ZDc1YjQ0MyJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1988610493,1176718894,-2023507493,490446099],Name:\"Toolsmith Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc3OGUwZDM1OWE4N2M2M2Y1ZDVjMjg0Nzc5YTNiZDYxZWFkY2EzODAwYTdkNDhmYmFmNzNmNzcxNGI0ZWY2ZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1886,7 +1886,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;246242060,-1681896096,-1111497640,-893653346],Name:\"Toolsmith Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNmZGQyOTUxNGYzYjk5NTQ3ZTdhYTFkMmEzZTU2MTc3MGMzZDNjZDVhYjcyYmJhOTRhNzRjOGY1YzJhNmIwOSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;246242060,-1681896096,-1111497640,-893653346],Name:\"Toolsmith Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U2ZDFmZDZmMGFhNjkyN2U3ODEwYjQwZDY3YTNhOTZhMDI3YTkwNWI3ZmQ3ODNmOGQzZGY5ZDJhNjBkMjBkNiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1905,7 +1905,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-1541740583,-262192409,-1974344918,-1192946452],Name:\"Toolsmith Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ3ZTJhZWZmZDEyMmQyZTY0ZDkxODhmZDhlNjMxMGFiMjY2ODBiNDUwNTE1YWRmYjg5MGYzOTZmNjMyOWE5NCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-1541740583,-262192409,-1974344918,-1192946452],Name:\"Toolsmith Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmFiMTJmOTczMjgwOTgzMGJmNDhjNTkxY2IwYzQ2YzVkYzgwYjhjNzhjZDRkZjE3MDc1ZjhiOWI4OWFlZmNjNSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1924,7 +1924,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;161307902,-1815000770,-1484333909,1676848292],Name:\"Weaponsmith Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ5YWRmODNhNGY2ZTM3ZmUzZjYxYjQ2ZDczZWJkOGEzNDJkMWM3NWRkNDgzNWNiZDI5OWQyOTY4ZDcwMjNmNCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;161307902,-1815000770,-1484333909,1676848292],Name:\"Weaponsmith Desert Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFmMTdlOWZjNjJlY2E0MTBmNGM0MGIxZTcxYzllMjQ1ZDhiYWEyMTYxZWU1YjE1YmNlMzczYjZiMDg2ZDE5NiJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -1981,7 +1981,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1118151389,-1361296741,-1436901307,119125814],Name:\"Weaponsmith Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwNDI5YjNiOWFmYTU4OTA4NmMxZGY2ODA4MGRmY2ZlNzI4MjRkNjUxMTZkMzMzODU2ZDE5ODY5YjNmNWY3YSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1118151389,-1361296741,-1436901307,119125814],Name:\"Weaponsmith Savanna Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZjN2QyNjYzMDgwZWJkYmRmYTE5NjRmZGRhNzk1MTZmZDhiYjgzNDRjMjAwZTlkYTE4Y2ZjZGEwMjc4NjNkNCJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -2000,7 +2000,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;-467799325,-1166915556,-2028038530,181507174],Name:\"Weaponsmith Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI2OGJiNjc0YTkzYzZiOGQ2ODdjMzUyMDBhZGEzYWZhYmFhOTQwZGRlZWRlNGEyZDUzN2U1OGRkNzQxYmUxZSJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;-467799325,-1166915556,-2028038530,181507174],Name:\"Weaponsmith Snow Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjcyYzM1YWEyZmIxYTYxODE0OWVkYjk0NzNjMmFhMzQ3ZWI3N2Q0MzhmNzRhNzkwZmQ0M2IzYmJhNjQ1ZTAyIn19fQ==\"}]}}}"
                 }
               ],
               "conditions": [
@@ -2019,7 +2019,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;813674116,1693009756,-1145219255,502696935],Name:\"Weaponsmith Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIyNjZlYmFkZjdkYjQwNTViZWNiY2RjMzc1NDE1MTc5OTYzMTljNjYxYWFlOTgxZDMwYWM2NGI2Nzg3N2FkZCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;813674116,1693009756,-1145219255,502696935],Name:\"Weaponsmith Swamp Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDY1ZmQ3OWNlOTU0YjI5NDQ4NTA1MWQwYzA5NTQ4M2QxNzBlZWVkZjM1NWI2MGRiMjhlOGQ2MTdjY2M5OTY5NyJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
@@ -2038,7 +2038,7 @@
               "functions": [
                 {
                   "function": "set_nbt",
-                  "tag": "{SkullOwner:{Id:[I;1494973420,1405046398,-2040583242,-1930893795],Name:\"Weaponsmith Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmZlNTRmMGZkY2IxN2Q4ODgzZGUyYjhmZjc5MDkwZGVlM2U5ZDhjZWY1NjMzZjVhOTQxYzZjZGQyNGYxZGZiMCJ9fX0=\"}]}}}"
+                  "tag": "{SkullOwner:{Id:[I;1494973420,1405046398,-2040583242,-1930893795],Name:\"Weaponsmith Taiga Zombie Villager\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI1Y2U4OWNhMTYyZmUzMjFiNjU0ZjJkZjA5ZjY1Zjk1YmY3NDdmMmIyYWVmMDIxMzQyYzBiNDYzNjcxYTFiZSJ9fX0=\"}]}}}"
                 }
               ],
               "conditions": [
