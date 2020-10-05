@@ -1,6 +1,7 @@
 Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
 Heads by Minecraft Heads: https://minecraft-heads.com
+Saddled striders by AltF4reli
 Grumm and programming assistance by EvModder: https://github.com/EvModder/DropHeads
 Carpeted llamas by Astroidbuster: https://www.planetminecraft.com/member/astroidbuster/
 Original fork by Black Knight
