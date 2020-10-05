@@ -1,7 +1,8 @@
 Credits:
-Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
+Vanilla Tweaks: https://vanillatweaks.net/
 Heads by Minecraft Heads: https://minecraft-heads.com
 Grumm and programming assistance by EvModder: https://github.com/EvModder/DropHeads
+Carpeted llamas by Astroidbuster: https://www.planetminecraft.com/member/astroidbuster/
 Original fork by Black Knight
 Cats, wolves by me
 Logo by discord user @unicode#1359
